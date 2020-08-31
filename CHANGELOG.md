@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.1.9 (September 01, 2020)
+
+- Fix: displayName `Paste Image from local pc` -> `Paste Image from local`
+
 ## 1.1.8 (September 01, 2020)
 
 - Feature: Support convert base64 text of clipboard to image data. it's only png image.
